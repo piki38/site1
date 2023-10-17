@@ -1,0 +1,25 @@
+{
+  "name": "site1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "mf",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.4.1",
+    "express": "^4.18.2",
+    "http-proxy-middleware": "^2.0.6",
+    "json": "^11.0.0",
+    "JSON": "^1.0.0"
+  },
+  "devDependencies": {
+    "prisma": "^5.4.1"
+  }
+}
