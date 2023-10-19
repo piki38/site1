@@ -1,0 +1,5 @@
+/node_modules
+.env
+Dockerfile 
+.index.js.swp
+.site1.html.swp

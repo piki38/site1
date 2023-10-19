@@ -52,5 +52,4 @@ app.post("/login", (req, res) => {
       await prisma.$disconnect()
       process.exit(1)
     })
-})
-
+});
