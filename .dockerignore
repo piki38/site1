@@ -1,5 +1,6 @@
 /node_modules
 .env
 Dockerfile 
+Dockerfile.front-end
 .index.js.swp
 .site1.html.swp
